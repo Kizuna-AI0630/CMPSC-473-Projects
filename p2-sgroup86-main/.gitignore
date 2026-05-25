@@ -1,0 +1,6 @@
+*.d
+*.o
+!page_load.o
+*.img
+kernel_x86_64
+user_x86_64
